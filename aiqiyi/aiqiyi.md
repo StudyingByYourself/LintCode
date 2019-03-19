@@ -1,6 +1,6 @@
 ## 判断题(TrueOrFalse)
 
-正确题目的最小值与错误题目的最小值
+正确题目的最小值与错误题目的最小值之和
 
 ## 删除重复字符(DeleteDuplicateString)
 
