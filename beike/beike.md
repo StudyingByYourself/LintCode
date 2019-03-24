@@ -9,7 +9,7 @@
 f[i][j] means arr[i...j]符合要求的最大值
 
 <center>
-	f[i][j] = max{f[i][j-1] + arr[j]*(n-len+1),f[i+1][j]+ arr[i]*(n-len+1)}
+	f[i][j] = max{f[i][j - 1] + arr[j] * (n - len + 1), f[i + 1][j]+ arr[i] * (n - len + 1)}
 </center>
 
 
